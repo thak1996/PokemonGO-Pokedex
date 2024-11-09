@@ -3,6 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Bulbasaur",
+    "description": "A seed Pokémon that can be found in grassy areas.",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
       "Grass",
@@ -34,6 +35,7 @@
     "id": 2,
     "num": "002",
     "name": "Ivysaur",
+    "description": "The evolved form of Bulbasaur, it has a large flower on its back.",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "type": [
       "Grass",
@@ -69,6 +71,7 @@
     "id": 3,
     "num": "003",
     "name": "Venusaur",
+    "description": "A giant Pokémon with a flower that can absorb sunlight.",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "type": [
       "Grass",
@@ -99,6 +102,7 @@
     "id": 4,
     "num": "004",
     "name": "Charmander",
+    "description": "A fire Pokémon that has a flame on its tail.",
     "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
     "type": [
       "Fire"
@@ -128,6 +132,7 @@
     "id": 5,
     "num": "005",
     "name": "Charmeleon",
+    "description": "The evolved form of Charmander, it is more aggressive.",
     "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
     "type": [
       "Fire"
@@ -158,6 +163,7 @@
     "id": 6,
     "num": "006",
     "name": "Charizard",
+    "description": "A powerful Pokémon that can breathe fire and fly.",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
     "type": [
       "Fire",
@@ -187,6 +193,7 @@
     "id": 7,
     "num": "007",
     "name": "Squirtle",
+    "description": "A small turtle Pokémon that can shoot water.",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "type": [
       "Water"
@@ -215,6 +222,7 @@
     "id": 8,
     "num": "008",
     "name": "Wartortle",
+    "description": "The evolved form of Squirtle, it has a bushy tail.",
     "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
     "type": [
       "Water"
@@ -244,6 +252,7 @@
     "id": 9,
     "num": "009",
     "name": "Blastoise",
+    "description": "A large Pokémon with powerful water cannons.",
     "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
     "type": [
       "Water"
@@ -271,6 +280,7 @@
     "id": 10,
     "num": "010",
     "name": "Caterpie",
+    "description": "A small caterpillar Pokémon that can evolve into Metapod.",
     "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
     "type": [
       "Bug"
@@ -300,6 +310,7 @@
     "id": 11,
     "num": "011",
     "name": "Metapod",
+    "description": "A cocoon Pokémon that is preparing to evolve.",
     "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
     "type": [
       "Bug"
@@ -333,6 +344,7 @@
     "id": 12,
     "num": "012",
     "name": "Butterfree",
+    "description": "A butterfly Pokémon that can use powder to stun foes.",
     "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
     "type": [
       "Bug",
@@ -364,6 +376,7 @@
     "id": 13,
     "num": "013",
     "name": "Weedle",
+    "description": "A small bug Pokémon with a poisonous stinger.",
     "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
     "type": [
       "Bug",
@@ -398,6 +411,7 @@
     "id": 14,
     "num": "014",
     "name": "Kakuna",
+    "description": "A cocoon Pokémon that is in a state of metamorphosis.",
     "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
     "type": [
       "Bug",
@@ -433,6 +447,7 @@
     "id": 15,
     "num": "015",
     "name": "Beedrill",
+    "description": "A bee Pokémon that can attack with its stingers.",
     "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
     "type": [
       "Bug",
@@ -463,6 +478,7 @@
     "id": 16,
     "num": "016",
     "name": "Pidgey",
+    "description": "A small bird Pokémon that can fly short distances.",
     "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
     "type": [
       "Normal",
@@ -495,6 +511,7 @@
     "id": 17,
     "num": "017",
     "name": "Pidgeotto",
+    "description": "The evolved form of Pidgey, it is more powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
     "type": [
       "Normal",
@@ -525,6 +542,7 @@
     "id": 18,
     "num": "018",
     "name": "Pidgeot",
+    "description": "A large bird Pokémon known for its speed.",
     "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
     "type": [
       "Normal",
@@ -553,6 +571,7 @@
     "id": 19,
     "num": "019",
     "name": "Rattata",
+    "description": "A small rodent Pokémon that is very common.",
     "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
     "type": [
       "Normal"
@@ -580,6 +599,7 @@
     "id": 20,
     "num": "020",
     "name": "Raticate",
+    "description": "The evolved form of Rattata, it is larger and stronger.",
     "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
     "type": [
       "Normal"
@@ -603,6 +623,7 @@
     "id": 21,
     "num": "021",
     "name": "Spearow",
+    "description": "A small bird Pokémon known for its loud cry.",
     "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
     "type": [
       "Normal",
@@ -632,6 +653,7 @@
     "id": 22,
     "num": "022",
     "name": "Fearow",
+    "description": "A large bird Pokémon that can fly at high speeds.",
     "img": "http://www.serebii.net/pokemongo/pokemon/022.png",
     "type": [
       "Normal",
@@ -657,6 +679,7 @@
     "id": 23,
     "num": "023",
     "name": "Ekans",
+    "description": "A snake Pokémon that can be found in grassy areas.",
     "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
     "type": [
       "Poison"
@@ -685,6 +708,7 @@
     "id": 24,
     "num": "024",
     "name": "Arbok",
+    "description": "A large snake Pokémon known for its intimidating hood.",
     "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
     "type": [
       "Poison"
@@ -709,6 +733,7 @@
     "id": 25,
     "num": "025",
     "name": "Pikachu",
+    "description": "An electric mouse Pokémon that is very popular.",
     "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
     "type": [
       "Electric"
@@ -733,6 +758,7 @@
     "id": 26,
     "num": "026",
     "name": "Raichu",
+    "description": "The evolved form of Pikachu, it is more powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
     "type": [
       "Electric"
@@ -756,6 +782,7 @@
     "id": 27,
     "num": "027",
     "name": "Sandshrew",
+    "description": "A small ground Pokémon that can burrow underground.",
     "img": "http://www.serebii.net/pokemongo/pokemon/027.png",
     "type": [
       "Ground"
@@ -782,6 +809,7 @@
     "id": 28,
     "num": "028",
     "name": "Sandslash",
+    "description": "The evolved form of Sandshrew, it has sharp claws.",
     "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
     "type": [
       "Ground"
@@ -807,6 +835,7 @@
     "id": 29,
     "num": "029",
     "name": "Nidoran ♀ (Female)",
+    "description": "A small poison Pokémon that is known for its cute appearance.",
     "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
     "type": [
       "Poison"
@@ -838,6 +867,7 @@
     "id": 30,
     "num": "030",
     "name": "Nidorina",
+    "description": "The evolved form of Nidoran ♀, it is more powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/030.png",
     "type": [
       "Poison"
@@ -870,6 +900,7 @@
     "id": 31,
     "num": "031",
     "name": "Nidoqueen",
+    "description": "A powerful Pokémon that can use both poison and ground attacks.",
     "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
     "type": [
       "Poison",
@@ -900,6 +931,7 @@
     "id": 32,
     "num": "032",
     "name": "Nidoran ♂ (Male)",
+    "description": "A small poison Pokémon that is known for its spiky appearance.",
     "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
     "type": [
       "Poison"
@@ -931,6 +963,7 @@
     "id": 33,
     "num": "033",
     "name": "Nidorino",
+    "description": "The evolved form of Nidoran ♂, it is more aggressive.",
     "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
     "type": [
       "Poison"
@@ -960,6 +993,7 @@
     "id": 34,
     "num": "034",
     "name": "Nidoking",
+    "description": "A powerful Pokémon that can use both poison and ground attacks.",
     "img": "http://www.serebii.net/pokemongo/pokemon/034.png",
     "type": [
       "Poison",
@@ -990,6 +1024,7 @@
     "id": 35,
     "num": "035",
     "name": "Clefairy",
+    "description": "A fairy Pokémon that is known for its cute appearance.",
     "img": "http://www.serebii.net/pokemongo/pokemon/035.png",
     "type": [
       "Normal"
@@ -1017,6 +1052,7 @@
     "id": 36,
     "num": "036",
     "name": "Clefable",
+    "description": "The evolved form of Clefairy, it is larger and more powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/036.png",
     "type": [
       "Normal"
@@ -1040,6 +1076,7 @@
     "id": 37,
     "num": "037",
     "name": "Vulpix",
+    "description": "A small fox Pokémon with six orange tails.",
     "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
     "type": [
       "Fire"
@@ -1069,6 +1106,7 @@
     "id": 38,
     "num": "038",
     "name": "Ninetales",
+    "description": "A fox Pokémon with nine beautiful tails.",
     "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
     "type": [
       "Fire"
@@ -1094,6 +1132,7 @@
     "id": 39,
     "num": "039",
     "name": "Jigglypuff",
+    "description": "A balloon Pokémon that can put others to sleep with its song.",
     "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
     "type": [
       "Normal"
@@ -1118,6 +1157,7 @@
     "id": 40,
     "num": "040",
     "name": "Wigglytuff",
+    "description": "The evolved form of Jigglypuff, it is larger and can sing louder.",
     "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
     "type": [
       "Normal"
@@ -1141,6 +1181,7 @@
     "id": 41,
     "num": "041",
     "name": "Zubat",
+    "description": "A bat Pokémon that is often found in caves.",
     "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
     "type": [
       "Poison",
@@ -1172,6 +1213,7 @@
     "id": 42,
     "num": "042",
     "name": "Golbat",
+    "description": "The evolved form of Zubat, it has large fangs.",
     "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
     "type": [
       "Poison",
@@ -1199,6 +1241,7 @@
     "id": 43,
     "num": "043",
     "name": "Oddish",
+    "description": "A small plant Pokémon that can be found in grassy areas.",
     "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
     "type": [
       "Grass",
@@ -1230,6 +1273,7 @@
     "id": 44,
     "num": "044",
     "name": "Gloom",
+    "description": "The evolved form of Oddish, it has a strong odor.",
     "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
     "type": [
       "Grass",
@@ -1262,6 +1306,7 @@
     "id": 45,
     "num": "045",
     "name": "Vileplume",
+    "description": "A large flower Pokémon that can release spores.",
     "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
     "type": [
       "Grass",
@@ -1292,6 +1337,7 @@
     "id": 46,
     "num": "046",
     "name": "Paras",
+    "description": "A bug Pokémon that has mushrooms growing on its back.",
     "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
     "type": [
       "Bug",
@@ -1322,6 +1368,7 @@
     "id": 47,
     "num": "047",
     "name": "Parasect",
+    "description": "The evolved form of Paras, it is controlled by the mushrooms on its back.",
     "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
     "type": [
       "Bug",
@@ -1351,6 +1398,7 @@
     "id": 48,
     "num": "048",
     "name": "Venonat",
+    "description": "A bug Pokémon with large eyes that can see in the dark.",
     "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
     "type": [
       "Bug",
@@ -1382,6 +1430,7 @@
     "id": 49,
     "num": "049",
     "name": "Venomoth",
+    "description": "The evolved form of Venonat, it has large wings and can fly.",
     "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
     "type": [
       "Bug",
@@ -1409,6 +1458,7 @@
     "id": 50,
     "num": "050",
     "name": "Diglett",
+    "description": "A small ground Pokémon that burrows underground.",
     "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
     "type": [
       "Ground"
@@ -1435,6 +1485,7 @@
     "id": 51,
     "num": "051",
     "name": "Dugtrio",
+    "description": "The evolved form of Diglett, it has three heads.",
     "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
     "type": [
       "Ground"
@@ -1460,6 +1511,7 @@
     "id": 52,
     "num": "052",
     "name": "Meowth",
+    "description": "A cat Pokémon that is known for its ability to walk on two legs.",
     "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
     "type": [
       "Normal"
@@ -1484,6 +1536,7 @@
     "id": 53,
     "num": "053",
     "name": "Persian",
+    "description": "The evolved form of Meowth, it is sleek and fast.",
     "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
     "type": [
       "Normal"
@@ -1507,6 +1560,7 @@
     "id": 54,
     "num": "054",
     "name": "Psyduck",
+    "description": "A duck Pokémon that suffers from frequent headaches.",
     "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
     "type": [
       "Water"
@@ -1532,6 +1586,7 @@
     "id": 55,
     "num": "055",
     "name": "Golduck",
+    "description": "The evolved form of Psyduck, it is a skilled swimmer.",
     "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
     "type": [
       "Water"
@@ -1556,6 +1611,7 @@
     "id": 56,
     "num": "056",
     "name": "Mankey",
+    "description": "A fighting Pokémon that is known for its agility.",
     "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
     "type": [
       "Fighting"
@@ -1585,6 +1641,7 @@
     "id": 57,
     "num": "057",
     "name": "Primeape",
+    "description": "A fighting Pokémon that is known for its strength.",
     "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
     "type": [
       "Fighting"
@@ -1610,6 +1667,7 @@
     "id": 58,
     "num": "058",
     "name": "Growlithe",
+    "description": "A fire Pokémon that is known for its speed.",
     "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
     "type": [
       "Fire"
@@ -1639,6 +1697,7 @@
     "id": 59,
     "num": "059",
     "name": "Arcanine",
+    "description": "A fire Pokémon that is known for its strength.",
     "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
     "type": [
       "Fire"
@@ -1664,6 +1723,7 @@
     "id": 60,
     "num": "060",
     "name": "Poliwag",
+    "description": "A small tadpole Pokémon with a spiral pattern on its belly.",
     "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
     "type": [
       "Water"
@@ -1695,6 +1755,7 @@
     "id": 61,
     "num": "061",
     "name": "Poliwhirl",
+    "description": "The evolved form of Poliwag, it has a round body.",
     "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
     "type": [
       "Water"
@@ -1724,6 +1785,7 @@
     "id": 62,
     "num": "062",
     "name": "Poliwrath",
+    "description": "The final evolution of Poliwag, it is very powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
     "type": [
       "Water",
@@ -1755,6 +1817,7 @@
     "id": 63,
     "num": "063",
     "name": "Abra",
+    "description": "A psychic Pokémon that can teleport away when threatened.",
     "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
     "type": [
       "Psychic"
@@ -1787,6 +1850,7 @@
     "id": 64,
     "num": "064",
     "name": "Kadabra",
+    "description": "The evolved form of Abra, it has strong psychic powers.",
     "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
     "type": [
       "Psychic"
@@ -1817,6 +1881,7 @@
     "id": 65,
     "num": "065",
     "name": "Alakazam",
+    "description": "A powerful psychic Pokémon that can use telekinesis.",
     "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
     "type": [
       "Psychic"
@@ -1845,6 +1910,7 @@
     "id": 66,
     "num": "066",
     "name": "Machop",
+    "description": "A fighting Pokémon that is known for its agility.",
     "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
     "type": [
       "Fighting"
@@ -1877,6 +1943,7 @@
     "id": 67,
     "num": "067",
     "name": "Machoke",
+    "description": "The evolved form of Machop, it is more powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
     "type": [
       "Fighting"
@@ -1907,6 +1974,7 @@
     "id": 68,
     "num": "068",
     "name": "Machamp",
+    "description": "The evolved form of Machop, it is very powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
     "type": [
       "Fighting"
@@ -1935,6 +2003,7 @@
     "id": 69,
     "num": "069",
     "name": "Bellsprout",
+    "description": "A grass Pokémon that is known for its cute appearance.",
     "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
     "type": [
       "Grass",
@@ -1966,6 +2035,7 @@
     "id": 70,
     "num": "070",
     "name": "Weepinbell",
+    "description": "The evolved form of Bellsprout, it has a large flower on its back.",
     "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
     "type": [
       "Grass",
@@ -1998,6 +2068,7 @@
     "id": 71,
     "num": "071",
     "name": "Victreebel",
+    "description": "The evolved form of Weepinbell, it has a strong odor.",
     "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
     "type": [
       "Grass",
@@ -2028,6 +2099,7 @@
     "id": 72,
     "num": "072",
     "name": "Tentacool",
+    "description": "A jellyfish Pokémon that can sting with its tentacles.",
     "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
     "type": [
       "Water",
@@ -2055,6 +2127,7 @@
     "id": 73,
     "num": "073",
     "name": "Tentacruel",
+    "description": "The evolved form of Tentacool, it has large tentacles.",
     "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
     "type": [
       "Water",
@@ -2081,6 +2154,7 @@
     "id": 74,
     "num": "074",
     "name": "Geodude",
+    "description": "A rock and ground Pokémon that resembles a small boulder.",
     "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
     "type": [
       "Rock",
@@ -2117,6 +2191,7 @@
     "id": 75,
     "num": "075",
     "name": "Graveler",
+    "description": "The evolved form of Geodude, it can roll down hills.",
     "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
     "type": [
       "Rock",
@@ -2154,6 +2229,7 @@
     "id": 76,
     "num": "076",
     "name": "Golem",
+    "description": "The final evolution of Geodude, it is very powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
     "type": [
       "Rock",
@@ -2186,6 +2262,7 @@
     "id": 77,
     "num": "077",
     "name": "Ponyta",
+    "description": "A horse Pokémon that is known for its speed.",
     "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
     "type": [
       "Fire"
@@ -2215,6 +2292,7 @@
     "id": 78,
     "num": "078",
     "name": "Rapidash",
+    "description": "The evolved form of Ponyta, it has a fiery mane.",
     "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
     "type": [
       "Fire"
@@ -2240,6 +2318,7 @@
     "id": 79,
     "num": "079",
     "name": "Slowpoke",
+    "description": "A slow Pokémon that can be found near water.",
     "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
     "type": [
       "Water",
@@ -2269,6 +2348,7 @@
     "id": 80,
     "num": "080",
     "name": "Slowbro",
+    "description": "The evolved form of Slowpoke, it has a shell on its back.",
     "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
     "type": [
       "Water",
@@ -2297,6 +2377,7 @@
     "id": 81,
     "num": "081",
     "name": "Magnemite",
+    "description": "A steel and electric Pokémon that can float.",
     "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
     "type": [
       "Electric"
@@ -2326,6 +2407,7 @@
     "id": 82,
     "num": "082",
     "name": "Magneton",
+    "description": "The evolved form of Magnemite, it has three bodies.",
     "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
     "type": [
       "Electric"
@@ -2351,6 +2433,7 @@
     "id": 83,
     "num": "083",
     "name": "Farfetch'd",
+    "description": "A duck Pokémon that carries a leek.",
     "img": "http://www.serebii.net/pokemongo/pokemon/083.png",
     "type": [
       "Normal",
@@ -2372,6 +2455,7 @@
     "id": 84,
     "num": "084",
     "name": "Doduo",
+    "description": "A bird Pokémon with two heads.",
     "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
     "type": [
       "Normal",
@@ -2401,6 +2485,7 @@
     "id": 85,
     "num": "085",
     "name": "Dodrio",
+    "description": "The evolved form of Doduo, it has three heads.",
     "img": "http://www.serebii.net/pokemongo/pokemon/085.png",
     "type": [
       "Normal",
@@ -2426,6 +2511,7 @@
     "id": 86,
     "num": "086",
     "name": "Seel",
+    "description": "A seal Pokémon that can swim well.",
     "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
     "type": [
       "Water"
@@ -2454,6 +2540,7 @@
     "id": 87,
     "num": "087",
     "name": "Dewgong",
+    "description": "The evolved form of Seel, it has a beautiful body.",
     "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
     "type": [
       "Water",
@@ -2481,6 +2568,7 @@
     "id": 88,
     "num": "088",
     "name": "Grimer",
+    "description": "A sludge Pokémon that can be found in polluted areas.",
     "img": "http://www.serebii.net/pokemongo/pokemon/088.png",
     "type": [
       "Poison"
@@ -2506,6 +2594,7 @@
     "id": 89,
     "num": "089",
     "name": "Muk",
+    "description": "The evolved form of Grimer, it is larger and more toxic.",
     "img": "http://www.serebii.net/pokemongo/pokemon/089.png",
     "type": [
       "Poison"
@@ -2530,6 +2619,7 @@
     "id": 90,
     "num": "090",
     "name": "Shellder",
+    "description": "A clam Pokémon that can close its shell tightly.",
     "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
     "type": [
       "Water"
@@ -2555,6 +2645,7 @@
     "id": 91,
     "num": "091",
     "name": "Cloyster",
+    "description": "The evolved form of Shellder, it has a hard shell and can shoot water.",
     "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
     "type": [
       "Water",
@@ -2582,6 +2673,7 @@
     "id": 92,
     "num": "092",
     "name": "Gastly",
+    "description": "A ghost Pokémon that is made of gas and can envelop opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
     "type": [
       "Ghost",
@@ -2613,6 +2705,7 @@
     "id": 93,
     "num": "093",
     "name": "Haunter",
+    "description": "The evolved form of Gastly, it can float and scare people.",
     "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
     "type": [
       "Ghost",
@@ -2648,6 +2741,7 @@
     "id": 94,
     "num": "094",
     "name": "Gengar",
+    "description": "The final evolution of Gastly, it is very mischievous and can hide in shadows.",
     "img": "http://www.serebii.net/pokemongo/pokemon/094.png",
     "type": [
       "Ghost",
@@ -2678,6 +2772,7 @@
     "id": 95,
     "num": "095",
     "name": "Onix",
+    "description": "A rock and ground Pokémon that resembles a giant snake.",
     "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
     "type": [
       "Rock",
@@ -2703,6 +2798,7 @@
     "id": 96,
     "num": "096",
     "name": "Drowzee",
+    "description": "A psychic Pokémon that can put others to sleep with its abilities.",
     "img": "http://www.serebii.net/pokemongo/pokemon/096.png",
     "type": [
       "Psychic"
@@ -2732,6 +2828,7 @@
     "id": 97,
     "num": "097",
     "name": "Hypno",
+    "description": "The evolved form of Drowzee, it is known for its hypnotic powers.",
     "img": "http://www.serebii.net/pokemongo/pokemon/097.png",
     "type": [
       "Psychic"
@@ -2757,6 +2854,7 @@
     "id": 98,
     "num": "098",
     "name": "Krabby",
+    "description": "A small crab Pokémon that can be found on beaches.",
     "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
     "type": [
       "Water"
@@ -2785,6 +2883,7 @@
     "id": 99,
     "num": "099",
     "name": "Kingler",
+    "description": "The evolved form of Krabby, it has a large claw that can crush anything.",
     "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
     "type": [
       "Water"
@@ -2809,6 +2908,7 @@
     "id": 100,
     "num": "100",
     "name": "Voltorb",
+    "description": "A ball Pokémon that resembles a Poké Ball and can explode.",
     "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
     "type": [
       "Electric"
@@ -2836,6 +2936,7 @@
     "id": 101,
     "num": "101",
     "name": "Electrode",
+    "description": "The evolved form of Voltorb, it is known for its speed and explosive power.",
     "img": "http://www.serebii.net/pokemongo/pokemon/101.png",
     "type": [
       "Electric"
@@ -2859,6 +2960,7 @@
     "id": 102,
     "num": "102",
     "name": "Exeggcute",
+    "description": "A group of small egg Pokémon that can be found in forests.",
     "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
     "type": [
       "Grass",
@@ -2893,6 +2995,7 @@
     "id": 103,
     "num": "103",
     "name": "Exeggutor",
+    "description": "The evolved form of Exeggcute, it has a large palm tree-like body.",
     "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
     "type": [
       "Grass",
@@ -2923,6 +3026,7 @@
     "id": 104,
     "num": "104",
     "name": "Cubone",
+    "description": "A small Pokémon that wears the skull of its deceased mother.",
     "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
     "type": [
       "Ground"
@@ -2949,6 +3053,7 @@
     "id": 105,
     "num": "105",
     "name": "Marowak",
+    "description": "The evolved form of Cubone, it is known for its bone club.",
     "img": "http://www.serebii.net/pokemongo/pokemon/105.png",
     "type": [
       "Ground"
@@ -2974,6 +3079,7 @@
     "id": 106,
     "num": "106",
     "name": "Hitmonlee",
+    "description": "A fighting Pokémon known for its powerful legs.",
     "img": "http://www.serebii.net/pokemongo/pokemon/106.png",
     "type": [
       "Fighting"
@@ -2995,6 +3101,7 @@
     "id": 107,
     "num": "107",
     "name": "Hitmonchan",
+    "description": "A fighting Pokémon known for its powerful punches.",
     "img": "http://www.serebii.net/pokemongo/pokemon/107.png",
     "type": [
       "Fighting"
@@ -3016,6 +3123,7 @@
     "id": 108,
     "num": "108",
     "name": "Lickitung",
+    "description": "A Pokémon with a long tongue that can lick its opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/108.png",
     "type": [
       "Normal"
@@ -3035,6 +3143,7 @@
     "id": 109,
     "num": "109",
     "name": "Koffing",
+    "description": "A poison Pokémon that can release toxic gas.",
     "img": "http://www.serebii.net/pokemongo/pokemon/109.png",
     "type": [
       "Poison"
@@ -3060,6 +3169,7 @@
     "id": 110,
     "num": "110",
     "name": "Weezing",
+    "description": "The evolved form of Koffing, it has two heads and is more toxic.",
     "img": "http://www.serebii.net/pokemongo/pokemon/110.png",
     "type": [
       "Poison"
@@ -3084,6 +3194,7 @@
     "id": 111,
     "num": "111",
     "name": "Rhyhorn",
+    "description": "A ground and rock Pokémon that is known for its strength.",
     "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
     "type": [
       "Ground",
@@ -3114,6 +3225,7 @@
     "id": 112,
     "num": "112",
     "name": "Rhydon",
+    "description": "The evolved form of Rhyhorn, it is very powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
     "type": [
       "Ground",
@@ -3143,6 +3255,7 @@
     "id": 113,
     "num": "113",
     "name": "Chansey",
+    "description": "A normal Pokémon that is known for its ability to lay eggs.",
     "img": "http://www.serebii.net/pokemongo/pokemon/113.png",
     "type": [
       "Normal"
@@ -3162,6 +3275,7 @@
     "id": 114,
     "num": "114",
     "name": "Tangela",
+    "description": "A grass Pokémon that is known for its ability to wrap around opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
     "type": [
       "Grass"
@@ -3185,6 +3299,7 @@
     "id": 115,
     "num": "115",
     "name": "Kangaskhan",
+    "description": "A normal Pokémon that is known for its ability to carry opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/115.png",
     "type": [
       "Normal"
@@ -3204,6 +3319,7 @@
     "id": 116,
     "num": "116",
     "name": "Horsea",
+    "description": "A water Pokémon that is known for its ability to swim.",
     "img": "http://www.serebii.net/pokemongo/pokemon/116.png",
     "type": [
       "Water"
@@ -3229,6 +3345,7 @@
     "id": 117,
     "num": "117",
     "name": "Seadra",
+    "description": "The evolved form of Horsea, it is known for its ability to shoot water.",
     "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
     "type": [
       "Water"
@@ -3253,6 +3370,7 @@
     "id": 118,
     "num": "118",
     "name": "Goldeen",
+    "description": "A water Pokémon that is known for its speed.",
     "img": "http://www.serebii.net/pokemongo/pokemon/118.png",
     "type": [
       "Water"
@@ -3281,6 +3399,7 @@
     "id": 119,
     "num": "119",
     "name": "Seaking",
+    "description": "The evolved form of Goldeen, it is known for its speed and agility.",
     "img": "http://www.serebii.net/pokemongo/pokemon/119.png",
     "type": [
       "Water"
@@ -3305,6 +3424,7 @@
     "id": 120,
     "num": "120",
     "name": "Staryu",
+    "description": "A water Pokémon that is known for its ability to float.",
     "img": "http://www.serebii.net/pokemongo/pokemon/120.png",
     "type": [
       "Water"
@@ -3333,6 +3453,7 @@
     "id": 121,
     "num": "121",
     "name": "Starmie",
+    "description": "The evolved form of Staryu, it is known for its psychic powers.",
     "img": "http://www.serebii.net/pokemongo/pokemon/121.png",
     "type": [
       "Water",
@@ -3361,6 +3482,7 @@
     "id": 122,
     "num": "122",
     "name": "Mr. Mime",
+    "description": "A psychic Pokémon that is known for its ability to create illusions.",
     "img": "http://www.serebii.net/pokemongo/pokemon/122.png",
     "type": [
       "Psychic"
@@ -3382,6 +3504,7 @@
     "id": 123,
     "num": "123",
     "name": "Scyther",
+    "description": "A bug and flying Pokémon that is known for its speed.",
     "img": "http://www.serebii.net/pokemongo/pokemon/123.png",
     "type": [
       "Bug",
@@ -3406,6 +3529,7 @@
     "id": 124,
     "num": "124",
     "name": "Jynx",
+    "description": "An ice and psychic Pokémon that is known for its ability to freeze opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
     "type": [
       "Ice",
@@ -3431,6 +3555,7 @@
     "id": 125,
     "num": "125",
     "name": "Electabuzz",
+    "description": "An electric Pokémon that is known for its ability to shock opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/125.png",
     "type": [
       "Electric"
@@ -3450,6 +3575,7 @@
     "id": 126,
     "num": "126",
     "name": "Magmar",
+    "description": "A fire Pokémon that is known for its ability to ignite opponents.",
     "img": "http://www.serebii.net/pokemongo/pokemon/126.png",
     "type": [
       "Fire"
@@ -3471,6 +3597,7 @@
     "id": 127,
     "num": "127",
     "name": "Pinsir",
+    "description": "A bug Pokémon that is known for its strength.",
     "img": "http://www.serebii.net/pokemongo/pokemon/127.png",
     "type": [
       "Bug"
@@ -3492,6 +3619,7 @@
     "id": 128,
     "num": "128",
     "name": "Tauros",
+    "description": "A normal Pokémon that is known for its strength.",
     "img": "http://www.serebii.net/pokemongo/pokemon/128.png",
     "type": [
       "Normal"
@@ -3511,6 +3639,7 @@
     "id": 129,
     "num": "129",
     "name": "Magikarp",
+    "description": "A water Pokémon that is known for being weak.",
     "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
     "type": [
       "Water"
@@ -3539,6 +3668,7 @@
     "id": 130,
     "num": "130",
     "name": "Gyarados",
+    "description": "A powerful sea serpent Pokémon that can be very aggressive.",
     "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
     "type": [
       "Water",
@@ -3564,6 +3694,7 @@
     "id": 131,
     "num": "131",
     "name": "Lapras",
+    "description": "A gentle Pokémon that can ferry people across water.",
     "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
     "type": [
       "Water",
@@ -3587,6 +3718,7 @@
     "id": 132,
     "num": "132",
     "name": "Ditto",
+    "description": "A unique Pokémon that can transform into other Pokémon.",
     "img": "http://www.serebii.net/pokemongo/pokemon/132.png",
     "type": [
       "Normal"
@@ -3606,6 +3738,7 @@
     "id": 133,
     "num": "133",
     "name": "Eevee",
+    "description": "A versatile Pokémon that can evolve into multiple forms.",
     "img": "http://www.serebii.net/pokemongo/pokemon/133.png",
     "type": [
       "Normal"
@@ -3639,6 +3772,7 @@
     "id": 134,
     "num": "134",
     "name": "Vaporeon",
+    "description": "The water evolution of Eevee, it has a sleek body.",
     "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
     "type": [
       "Water"
@@ -3663,6 +3797,7 @@
     "id": 135,
     "num": "135",
     "name": "Jolteon",
+    "description": "The electric evolution of Eevee, it is very fast.",
     "img": "http://www.serebii.net/pokemongo/pokemon/135.png",
     "type": [
       "Electric"
@@ -3686,6 +3821,7 @@
     "id": 136,
     "num": "136",
     "name": "Flareon",
+    "description": "The fire evolution of Eevee, it has a fluffy mane.",
     "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
     "type": [
       "Fire"
@@ -3711,6 +3847,7 @@
     "id": 137,
     "num": "137",
     "name": "Porygon",
+    "description": "A virtual Pokémon that was created by computer programming.",
     "img": "http://www.serebii.net/pokemongo/pokemon/137.png",
     "type": [
       "Normal"
@@ -3730,6 +3867,7 @@
     "id": 138,
     "num": "138",
     "name": "Omanyte",
+    "description": "A fossil Pokémon that resembles a small ammonite.",
     "img": "http://www.serebii.net/pokemongo/pokemon/138.png",
     "type": [
       "Rock",
@@ -3758,6 +3896,7 @@
     "id": 139,
     "num": "139",
     "name": "Omastar",
+    "description": "The evolved form of Omanyte, it has large claws.",
     "img": "http://www.serebii.net/pokemongo/pokemon/139.png",
     "type": [
       "Rock",
@@ -3785,6 +3924,7 @@
     "id": 140,
     "num": "140",
     "name": "Kabuto",
+    "description": "A fossil Pokémon that resembles a small crab.",
     "img": "http://www.serebii.net/pokemongo/pokemon/140.png",
     "type": [
       "Rock",
@@ -3816,6 +3956,7 @@
     "id": 141,
     "num": "141",
     "name": "Kabutops",
+    "description": "The evolved form of Kabuto, it has sharp scythes.",
     "img": "http://www.serebii.net/pokemongo/pokemon/141.png",
     "type": [
       "Rock",
@@ -3843,6 +3984,7 @@
     "id": 142,
     "num": "142",
     "name": "Aerodactyl",
+    "description": "A prehistoric Pokémon that can fly at high speeds.",
     "img": "http://www.serebii.net/pokemongo/pokemon/142.png",
     "type": [
       "Rock",
@@ -3867,6 +4009,7 @@
     "id": 143,
     "num": "143",
     "name": "Snorlax",
+    "description": "A large Pokémon that is known for sleeping a lot.",
     "img": "http://www.serebii.net/pokemongo/pokemon/143.png",
     "type": [
       "Normal"
@@ -3886,6 +4029,7 @@
     "id": 144,
     "num": "144",
     "name": "Articuno",
+    "description": "A legendary ice bird Pokémon with beautiful wings.",
     "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
     "type": [
       "Ice",
@@ -3909,6 +4053,7 @@
     "id": 145,
     "num": "145",
     "name": "Zapdos",
+    "description": "A legendary electric bird Pokémon that can summon storms.",
     "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
     "type": [
       "Electric",
@@ -3930,6 +4075,7 @@
     "id": 146,
     "num": "146",
     "name": "Moltres",
+    "description": "A legendary fire bird Pokémon that can engulf foes in flames.",
     "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
     "type": [
       "Fire",
@@ -3952,6 +4098,7 @@
     "id": 147,
     "num": "147",
     "name": "Dratini",
+    "description": "A small dragon Pokémon that is very rare.",
     "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
     "type": [
       "Dragon"
@@ -3984,6 +4131,7 @@
     "id": 148,
     "num": "148",
     "name": "Dragonair",
+    "description": "The evolved form of Dratini, it is elegant and powerful.",
     "img": "http://www.serebii.net/pokemongo/pokemon/148.png",
     "type": [
       "Dragon"
@@ -4014,6 +4162,7 @@
     "id": 149,
     "num": "149",
     "name": "Dragonite",
+    "description": "A large dragon Pokémon that can fly and is very strong.",
     "img": "http://www.serebii.net/pokemongo/pokemon/149.png",
     "type": [
       "Dragon",
@@ -4044,6 +4193,7 @@
     "id": 150,
     "num": "150",
     "name": "Mewtwo",
+    "description": "A genetically engineered Pokémon with immense psychic powers.",
     "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
     "type": [
       "Psychic"
@@ -4065,6 +4215,7 @@
     "id": 151,
     "num": "151",
     "name": "Mew",
+    "description": "A mythical Pokémon that can learn any move.",
     "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
     "type": [
       "Psychic"
