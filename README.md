@@ -18,6 +18,7 @@ Pokédex of Pokémon GO in JSON. **(1st generation)**
 *   **spawn_time**: *Spawns most active at the time on this field. Spawn times are the same for all time zones and are expressed in local time.* **(NEW)**
 *   **multipliers**: *Multipler of Combat Power (CP) for calculating the CP after evolution*  [See below](#multipliers)
 *   **weakness**: *Types of Pokémon this Pokémon is weak to*
+*   **stats**: *Stats of Pokémon*
 *   **next_evolution**: *Number and Name of successive evolutions of Pokémon*
 *   **prev_evolution**: *Number and Name of previous evolutions of Pokémon*
 
