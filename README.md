@@ -5,6 +5,7 @@ Pokédex of Pokémon GO in JSON. **(1st generation)**
 *   **id**: *Identification Number*
 *   **num**: *Number of the Pokémon in the official Pokédex*
 *   **name**: *Pokémon name*
+*   **description**: *Pokémon description*
 *   **img**: *URL to an image of this Pokémon*
 *   **type**: *Pokémon type*
 *   **height**: *Pokémon height*
